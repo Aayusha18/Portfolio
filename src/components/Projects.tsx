@@ -3892,8 +3892,7 @@ function WhatnotElectronicsOverlay() {
                       fontWeight: 600,
                       color: palette.ink,
                       textAlign: 'center',
-                      marginBottom: 5,
-                      fontFamily: fontHead
+                      marginBottom: 5
                     }}>
                     
                     {step.title}
